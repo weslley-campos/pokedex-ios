@@ -21,6 +21,8 @@ import Swinject
 /// ```
 extension Assembler {
     static let shared: Assembler = {
-        return Assembler([], container: Container())
+        return Assembler([
+            NavigationAssembly()
+        ], container: Container())
     }()
 }

@@ -1,6 +1,8 @@
 import SwiftUI
 
-struct ContentView: View {
+struct HomeScreen: View {
+    var navigator: Navigator = inject()
+    
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -13,5 +15,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    HomeScreen()
 }
