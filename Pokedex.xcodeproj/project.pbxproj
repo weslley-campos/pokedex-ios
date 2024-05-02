@@ -31,6 +31,24 @@
 		6E6EA42F2BE0831A001993C9 /* SplashScreenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6EA42D2BE0831A001993C9 /* SplashScreenViewModel.swift */; };
 		6E6EA4302BE0831A001993C9 /* SplashScreenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6EA42D2BE0831A001993C9 /* SplashScreenViewModel.swift */; };
 		6E96E5442BE1E1F300CDB000 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E96E5432BE1E1F300CDB000 /* HomeScreen.swift */; };
+		6E96E54A2BE2EDD900CDB000 /* PoppinsFontStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E96E5492BE2EDD900CDB000 /* PoppinsFontStyle.swift */; };
+		6E96E54B2BE2EDD900CDB000 /* PoppinsFontStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E96E5492BE2EDD900CDB000 /* PoppinsFontStyle.swift */; };
+		6E96E54C2BE2EDD900CDB000 /* PoppinsFontStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E96E5492BE2EDD900CDB000 /* PoppinsFontStyle.swift */; };
+		6E96E5522BE2F12D00CDB000 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E54D2BE2F12D00CDB000 /* Poppins-Regular.ttf */; };
+		6E96E5532BE2F12D00CDB000 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E54D2BE2F12D00CDB000 /* Poppins-Regular.ttf */; };
+		6E96E5542BE2F12D00CDB000 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E54D2BE2F12D00CDB000 /* Poppins-Regular.ttf */; };
+		6E96E5552BE2F12D00CDB000 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E54E2BE2F12D00CDB000 /* Poppins-SemiBold.ttf */; };
+		6E96E5562BE2F12D00CDB000 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E54E2BE2F12D00CDB000 /* Poppins-SemiBold.ttf */; };
+		6E96E5572BE2F12D00CDB000 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E54E2BE2F12D00CDB000 /* Poppins-SemiBold.ttf */; };
+		6E96E5582BE2F12D00CDB000 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E54F2BE2F12D00CDB000 /* Poppins-Black.ttf */; };
+		6E96E5592BE2F12D00CDB000 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E54F2BE2F12D00CDB000 /* Poppins-Black.ttf */; };
+		6E96E55A2BE2F12D00CDB000 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E54F2BE2F12D00CDB000 /* Poppins-Black.ttf */; };
+		6E96E55B2BE2F12D00CDB000 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E5502BE2F12D00CDB000 /* Poppins-ExtraBold.ttf */; };
+		6E96E55C2BE2F12D00CDB000 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E5502BE2F12D00CDB000 /* Poppins-ExtraBold.ttf */; };
+		6E96E55D2BE2F12D00CDB000 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E5502BE2F12D00CDB000 /* Poppins-ExtraBold.ttf */; };
+		6E96E55E2BE2F12D00CDB000 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E5512BE2F12D00CDB000 /* Poppins-Bold.ttf */; };
+		6E96E55F2BE2F12D00CDB000 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E5512BE2F12D00CDB000 /* Poppins-Bold.ttf */; };
+		6E96E5602BE2F12D00CDB000 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E96E5512BE2F12D00CDB000 /* Poppins-Bold.ttf */; };
 		6EE5285D2BE05553003E076B /* animation.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6EE5285B2BE05553003E076B /* animation.gif */; };
 		6EE5285E2BE05553003E076B /* animation.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6EE5285B2BE05553003E076B /* animation.gif */; };
 		6EE5285F2BE05553003E076B /* animation.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6EE5285B2BE05553003E076B /* animation.gif */; };
@@ -80,6 +98,13 @@
 		6E6EA4252BE078C4001993C9 /* Inject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Inject.swift; sourceTree = "<group>"; };
 		6E6EA42D2BE0831A001993C9 /* SplashScreenViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenViewModel.swift; sourceTree = "<group>"; };
 		6E96E5432BE1E1F300CDB000 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		6E96E5492BE2EDD900CDB000 /* PoppinsFontStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoppinsFontStyle.swift; sourceTree = "<group>"; };
+		6E96E54D2BE2F12D00CDB000 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		6E96E54E2BE2F12D00CDB000 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		6E96E54F2BE2F12D00CDB000 /* Poppins-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Black.ttf"; sourceTree = "<group>"; };
+		6E96E5502BE2F12D00CDB000 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
+		6E96E5512BE2F12D00CDB000 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		6E96E5612BE2F20D00CDB000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		6EE5285B2BE05553003E076B /* animation.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = animation.gif; sourceTree = "<group>"; };
 		6EE5285C2BE05553003E076B /* pokedex.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pokedex.png; sourceTree = "<group>"; };
 		6EE528642BE0569E003E076B /* GifImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifImage.swift; sourceTree = "<group>"; };
@@ -153,14 +178,53 @@
 		6E96E5422BE1E1B200CDB000 /* HomeScreen */ = {
 			isa = PBXGroup;
 			children = (
-				6E96E5432BE1E1F300CDB000 /* HomeScreen.swift */,
+				6E96E5452BE1E44900CDB000 /* Presentation */,
+				6E96E5462BE1E45F00CDB000 /* Domain */,
+				6E96E5472BE1E46E00CDB000 /* Data */,
 			);
 			path = HomeScreen;
+			sourceTree = "<group>";
+		};
+		6E96E5452BE1E44900CDB000 /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				6E96E5432BE1E1F300CDB000 /* HomeScreen.swift */,
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		6E96E5462BE1E45F00CDB000 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		6E96E5472BE1E46E00CDB000 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		6E96E5482BE2EDC400CDB000 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				6E96E5612BE2F20D00CDB000 /* Info.plist */,
+				6E96E54F2BE2F12D00CDB000 /* Poppins-Black.ttf */,
+				6E96E5512BE2F12D00CDB000 /* Poppins-Bold.ttf */,
+				6E96E5502BE2F12D00CDB000 /* Poppins-ExtraBold.ttf */,
+				6E96E54D2BE2F12D00CDB000 /* Poppins-Regular.ttf */,
+				6E96E54E2BE2F12D00CDB000 /* Poppins-SemiBold.ttf */,
+				6E96E5492BE2EDD900CDB000 /* PoppinsFontStyle.swift */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 		6EE528112BDF2DB8003E076B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				6E96E5482BE2EDC400CDB000 /* Fonts */,
 				6EE5285B2BE05553003E076B /* animation.gif */,
 				6EE5285C2BE05553003E076B /* pokedex.png */,
 				6EF1F1962BDF241100A823DF /* Assets.xcassets */,
@@ -404,9 +468,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				6EF1F19A2BDF241100A823DF /* Preview Assets.xcassets in Resources */,
+				6E96E55E2BE2F12D00CDB000 /* Poppins-Bold.ttf in Resources */,
 				6EE5285D2BE05553003E076B /* animation.gif in Resources */,
 				6EE528602BE05553003E076B /* pokedex.png in Resources */,
+				6E96E5582BE2F12D00CDB000 /* Poppins-Black.ttf in Resources */,
+				6E96E55B2BE2F12D00CDB000 /* Poppins-ExtraBold.ttf in Resources */,
+				6E96E5552BE2F12D00CDB000 /* Poppins-SemiBold.ttf in Resources */,
 				6EF1F1972BDF241100A823DF /* Assets.xcassets in Resources */,
+				6E96E5522BE2F12D00CDB000 /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,8 +483,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E96E5532BE2F12D00CDB000 /* Poppins-Regular.ttf in Resources */,
+				6E96E5562BE2F12D00CDB000 /* Poppins-SemiBold.ttf in Resources */,
+				6E96E55F2BE2F12D00CDB000 /* Poppins-Bold.ttf in Resources */,
 				6EE528612BE05553003E076B /* pokedex.png in Resources */,
 				6EE5285E2BE05553003E076B /* animation.gif in Resources */,
+				6E96E55C2BE2F12D00CDB000 /* Poppins-ExtraBold.ttf in Resources */,
+				6E96E5592BE2F12D00CDB000 /* Poppins-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,8 +497,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E96E5542BE2F12D00CDB000 /* Poppins-Regular.ttf in Resources */,
+				6E96E5572BE2F12D00CDB000 /* Poppins-SemiBold.ttf in Resources */,
+				6E96E5602BE2F12D00CDB000 /* Poppins-Bold.ttf in Resources */,
 				6EE528622BE05553003E076B /* pokedex.png in Resources */,
 				6EE5285F2BE05553003E076B /* animation.gif in Resources */,
+				6E96E55D2BE2F12D00CDB000 /* Poppins-ExtraBold.ttf in Resources */,
+				6E96E55A2BE2F12D00CDB000 /* Poppins-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -540,6 +619,7 @@
 			files = (
 				6EE5286A2BE057D7003E076B /* SplashScreen.swift in Sources */,
 				6E6EA4272BE078C4001993C9 /* Assembler.swift in Sources */,
+				6E96E54A2BE2EDD900CDB000 /* PoppinsFontStyle.swift in Sources */,
 				6E6EA42E2BE0831A001993C9 /* SplashScreenViewModel.swift in Sources */,
 				6E6EA41E2BE07869001993C9 /* Navigator.swift in Sources */,
 				6E96E5442BE1E1F300CDB000 /* HomeScreen.swift in Sources */,
@@ -562,6 +642,7 @@
 				6E6EA42F2BE0831A001993C9 /* SplashScreenViewModel.swift in Sources */,
 				6E6EA4282BE078C4001993C9 /* Assembler.swift in Sources */,
 				6E6EA4222BE07869001993C9 /* Screen.swift in Sources */,
+				6E96E54B2BE2EDD900CDB000 /* PoppinsFontStyle.swift in Sources */,
 				6E6EA4162BE07869001993C9 /* NavigationAssembly.swift in Sources */,
 				6E54187E2BE17448006A8F43 /* Resolve.swift in Sources */,
 				6EF1F1A42BDF241100A823DF /* PokedexTests.swift in Sources */,
@@ -575,6 +656,7 @@
 			files = (
 				6EE5286C2BE057D7003E076B /* SplashScreen.swift in Sources */,
 				6E6EA4292BE078C4001993C9 /* Assembler.swift in Sources */,
+				6E96E54C2BE2EDD900CDB000 /* PoppinsFontStyle.swift in Sources */,
 				6E6EA4302BE0831A001993C9 /* SplashScreenViewModel.swift in Sources */,
 				6E54187F2BE17448006A8F43 /* Resolve.swift in Sources */,
 				6E6EA4172BE07869001993C9 /* NavigationAssembly.swift in Sources */,
@@ -734,6 +816,7 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Pokedex/Resources/Fonts/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Pokédex";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -769,6 +852,7 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Pokedex/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Pokédex";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
